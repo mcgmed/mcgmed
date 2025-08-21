@@ -1,6 +1,5 @@
-- 👋 Hi, I’m @mcgmed . I'm a doctor and
-- 👀 I’m interested in data science.
-- 🌱 I’m currently learning MLOps.
+- 👋 Hi, I’m @mcgmed . I'm a medical doctor and
+- 👀 I’m interested in AI and data science.
 - 💞️ I’m looking to collaborate on medical projects with my colleagues.
 - 📫 How to reach me: mustafacgoktepe@gmail.com
 
